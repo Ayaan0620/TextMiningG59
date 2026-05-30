@@ -1,5 +1,5 @@
-# Text Mining for AI — Final Assignment
-**Group 59 
+# Text Mining for AI 
+Group 59 
 
 ## Project Structure
 
